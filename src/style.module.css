@@ -1,0 +1,241 @@
+.Word {
+  display: inline-block;
+  width: 50%;
+  padding: 10px;
+  transition: all 250ms;
+  max-width: 300px;
+}
+
+.blank {
+  display: inline-block;
+  outline: none;
+  box-shadow: none;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 4px solid #ffffff;
+  text-align: center;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  width: 100%;
+  border-radius: 0;
+  padding-bottom: 4px;
+  transition: all 250ms;
+}
+
+.blank:disabled {
+  color: #ffffff55;
+  border-color: #ffffff55;
+}
+
+.score-tracker {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  text-align: center;
+  width: 100px;
+}
+
+.score-header {
+  font-size: 10px;
+}
+
+.score {
+  font-size: 34px;
+  margin: 0 10px;
+}
+
+.song-info {
+  overflow: hidden;
+  margin: 25px 10px;
+  font-size: 16px;
+  font-style: italic;
+  width: calc(100% - 100px);
+  position: relative;
+  text-align: left;
+}
+
+.song-info p {
+  margin: 0;
+  display: inline-block;
+  width: 100%;
+}
+
+.missing-lyrics {
+  margin: auto;
+  text-align: center;
+}
+
+.given-lyrics {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 20px auto;
+}
+
+.Quiz {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto";
+  font-weight: 700;
+  margin: auto;
+  text-align: center;
+  max-width: 1300px;
+  position: relative;
+}
+
+.Question {
+  padding: 10px;
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.skip-button {
+  color: #ffffff;
+  background: none;
+  margin: 50px auto 20px;
+}
+
+.next-buttons button,
+.next-button {
+  outline: none;
+  box-shadow: none;
+  border: none;
+  font-weight: 900;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px 12px;
+  display: block;
+}
+
+.next-button-container {
+  position: relative;
+  margin: 50px auto 20px;
+  text-align: center;
+  width: fit-content;
+  display: none;
+}
+
+.next-button-container img {
+  position: absolute;
+  height: 10px;
+  top: 0;
+  margin: 2px;
+}
+
+.next-button {
+  mix-blend-mode: screen;
+  background-color: #fff;
+  border-radius: 5px;
+  display: none;
+  margin: auto;
+}
+
+.questions {
+  overflow: hidden;
+  height: 100%;
+}
+
+.start-button {
+  mix-blend-mode: screen;
+  background-color: #fff;
+  border-radius: 5px;
+  display: none;
+  margin: auto;
+  outline: none;
+  box-shadow: none;
+  border: none;
+  font-weight: 900;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px 12px;
+  display: block;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.landing {
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.landing h1 {
+  font-size: 10vw;
+  margin: 0 auto;
+}
+
+.landing h3 {
+  font-size: 7vw;
+  margin-top: 0;
+}
+
+.landing img {
+  height: 200px;
+}
+
+@media screen and (min-width: 1000px) {
+  .landing h1 {
+    font-size: 64px;
+  }
+  .landing h3 {
+    font-size: 48px;
+  }
+}
+
+.results-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.results {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #fe353b;
+  padding: 10px 20px;
+  margin: auto;
+  overflow-y: scroll;
+  max-height: 100%;
+}
+.results h5 {
+  margin: 10px auto 0;
+}
+
+.results h1 {
+  font-size: 64px;
+  margin: 0 auto;
+}
+.results h1 span {
+  font-size: 36px;
+  margin-left: 2px;
+}
+
+.results video {
+  width: 100%;
+  border-radius: 5px;
+  max-height: 300px;
+}
+
+.message {
+  text-align: center;
+}
+
+.thanks {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  padding: 0 12px;
+  color: #00000055;
+}
