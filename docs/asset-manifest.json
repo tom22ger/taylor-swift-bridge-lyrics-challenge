@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taylor-swift-bridge-lyrics-challenge/static/css/main.d0b1bc81.chunk.css",
-    "main.js": "/taylor-swift-bridge-lyrics-challenge/static/js/main.a82bef9c.chunk.js",
-    "main.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/main.a82bef9c.chunk.js.map",
+    "main.js": "/taylor-swift-bridge-lyrics-challenge/static/js/main.8b216f79.chunk.js",
+    "main.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/main.8b216f79.chunk.js.map",
     "runtime-main.js": "/taylor-swift-bridge-lyrics-challenge/static/js/runtime-main.bc4861c8.js",
     "runtime-main.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/runtime-main.bc4861c8.js.map",
     "static/js/2.f2d82d4c.chunk.js": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js",
     "static/js/2.f2d82d4c.chunk.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js.map",
     "index.html": "/taylor-swift-bridge-lyrics-challenge/index.html",
-    "precache-manifest.1a37d65fd4b9fc24df57267ee3d4acc0.js": "/taylor-swift-bridge-lyrics-challenge/precache-manifest.1a37d65fd4b9fc24df57267ee3d4acc0.js",
+    "precache-manifest.662425c08bd36b9f65b68f9bc0b31b7a.js": "/taylor-swift-bridge-lyrics-challenge/precache-manifest.662425c08bd36b9f65b68f9bc0b31b7a.js",
     "service-worker.js": "/taylor-swift-bridge-lyrics-challenge/service-worker.js",
     "static/css/main.d0b1bc81.chunk.css.map": "/taylor-swift-bridge-lyrics-challenge/static/css/main.d0b1bc81.chunk.css.map",
     "static/js/2.f2d82d4c.chunk.js.LICENSE.txt": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.bc4861c8.js",
     "static/js/2.f2d82d4c.chunk.js",
     "static/css/main.d0b1bc81.chunk.css",
-    "static/js/main.a82bef9c.chunk.js"
+    "static/js/main.8b216f79.chunk.js"
   ]
 }

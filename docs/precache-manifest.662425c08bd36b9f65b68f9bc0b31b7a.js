@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f079b5ee5a09a51f1016a3cebff0d5b",
+    "revision": "c871cb226177bb9cc14e5f1e975b2a2c",
     "url": "/taylor-swift-bridge-lyrics-challenge/index.html"
   },
   {
-    "revision": "12c9253516f3cfb9ebd0",
+    "revision": "07ed326e226e04b7bd6b",
     "url": "/taylor-swift-bridge-lyrics-challenge/static/css/main.d0b1bc81.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12c9253516f3cfb9ebd0",
-    "url": "/taylor-swift-bridge-lyrics-challenge/static/js/main.a82bef9c.chunk.js"
+    "revision": "07ed326e226e04b7bd6b",
+    "url": "/taylor-swift-bridge-lyrics-challenge/static/js/main.8b216f79.chunk.js"
   },
   {
     "revision": "81f24b3f857cd96b33e1",
