@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c871cb226177bb9cc14e5f1e975b2a2c",
+    "revision": "08c5868e2434a5d86141cacad8b9d51b",
     "url": "/taylor-swift-bridge-lyrics-challenge/index.html"
   },
   {
