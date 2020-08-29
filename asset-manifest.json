@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.32c41632.chunk.css",
-    "main.js": "/static/js/main.f1636452.chunk.js",
-    "main.js.map": "/static/js/main.f1636452.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3cf453d2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3cf453d2.js.map",
-    "static/js/2.025acd41.chunk.js": "/static/js/2.025acd41.chunk.js",
-    "static/js/2.025acd41.chunk.js.map": "/static/js/2.025acd41.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b3c240c55ccdffbb840bd2a15a52a2b1.js": "/precache-manifest.b3c240c55ccdffbb840bd2a15a52a2b1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.32c41632.chunk.css.map": "/static/css/main.32c41632.chunk.css.map",
-    "static/js/2.025acd41.chunk.js.LICENSE.txt": "/static/js/2.025acd41.chunk.js.LICENSE.txt",
-    "static/media/bridge.svg": "/static/media/bridge.0eff6caf.svg",
-    "static/media/doublenote.svg": "/static/media/doublenote.e4119d60.svg",
-    "static/media/note.svg": "/static/media/note.9ba2252a.svg"
+    "main.css": "/taylor-swift-bridge-lyrics-challenge/static/css/main.32c41632.chunk.css",
+    "main.js": "/taylor-swift-bridge-lyrics-challenge/static/js/main.789c8fd9.chunk.js",
+    "main.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/main.789c8fd9.chunk.js.map",
+    "runtime-main.js": "/taylor-swift-bridge-lyrics-challenge/static/js/runtime-main.bc4861c8.js",
+    "runtime-main.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/runtime-main.bc4861c8.js.map",
+    "static/js/2.f2d82d4c.chunk.js": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js",
+    "static/js/2.f2d82d4c.chunk.js.map": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js.map",
+    "index.html": "/taylor-swift-bridge-lyrics-challenge/index.html",
+    "precache-manifest.1ea1c70eb56d79f713f3cc90bc131d4f.js": "/taylor-swift-bridge-lyrics-challenge/precache-manifest.1ea1c70eb56d79f713f3cc90bc131d4f.js",
+    "service-worker.js": "/taylor-swift-bridge-lyrics-challenge/service-worker.js",
+    "static/css/main.32c41632.chunk.css.map": "/taylor-swift-bridge-lyrics-challenge/static/css/main.32c41632.chunk.css.map",
+    "static/js/2.f2d82d4c.chunk.js.LICENSE.txt": "/taylor-swift-bridge-lyrics-challenge/static/js/2.f2d82d4c.chunk.js.LICENSE.txt",
+    "static/media/bridge.svg": "/taylor-swift-bridge-lyrics-challenge/static/media/bridge.0eff6caf.svg",
+    "static/media/doublenote.svg": "/taylor-swift-bridge-lyrics-challenge/static/media/doublenote.e4119d60.svg",
+    "static/media/note.svg": "/taylor-swift-bridge-lyrics-challenge/static/media/note.9ba2252a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cf453d2.js",
-    "static/js/2.025acd41.chunk.js",
+    "static/js/runtime-main.bc4861c8.js",
+    "static/js/2.f2d82d4c.chunk.js",
     "static/css/main.32c41632.chunk.css",
-    "static/js/main.f1636452.chunk.js"
+    "static/js/main.789c8fd9.chunk.js"
   ]
 }
