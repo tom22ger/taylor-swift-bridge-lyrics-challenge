@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/taylor-swift-bridge-lyrics-challenge/precache-manifest.1ea1c70eb56d79f713f3cc90bc131d4f.js"
+  "/taylor-swift-bridge-lyrics-challenge/precache-manifest.9e807942d1d332b456e7107d36792e57.js"
 );
 
 self.addEventListener('message', (event) => {
